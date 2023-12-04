@@ -21,7 +21,7 @@ public class Pelaaja {
             case 2:
                 return "sakset";
             default:
-                return ""; // Tämä tapaus ei pitäisi esiintyä
+                return ""; // Tätä tapausta ei pitäisi esiintyä
         }
     }
 
